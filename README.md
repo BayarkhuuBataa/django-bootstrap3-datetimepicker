@@ -110,7 +110,7 @@ Requirements
 -------------------------------
 
 * Python >= 2.4
-* Django >= 1.3
+* Django >= 2.1
 * Bootstrap >= 3.0
 
 
